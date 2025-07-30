@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👩🏽‍💻 Isabelli Victória Silva
 
-<!--
-**isavicts/isavicts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Aprendiz de Programação `**
 
-Here are some ideas to get you started:
+Me chamo Isabelli Victória Silva, tenho 19 anos e sou natural de Pernambuco. Concluí um período de Ciência da Computação na UNINASSAU em Recife, mas atualmente estou estudando para futuramente retornar á faculdade. Atualmente estou cursando Python Developer na DIO e aprendendo mais sobre programação de forma autodidata.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+ />
+
+ <br/>
+ <br/>
+
+ ### 📊 Estatísticas
+<img 
+align="left"
+    alt= "GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=isavicts&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+ />
+ 
+ <img 
+align="left"
+    alt= "GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isavicts&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
