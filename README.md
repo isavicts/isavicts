@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Isabelli Victória Silva
+# 👩🏽‍💻 Isabelli Victória
 
 **`Aprendiz de Programação `**
 
