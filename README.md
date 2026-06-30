@@ -2,7 +2,11 @@
 
 **`Aprendiz de Programação `**
 
-Me chamo Isabelli Victória Silva, tenho 19 anos e sou natural de Pernambuco. Concluí um período de Ciência da Computação na UNINASSAU em Recife, mas atualmente estou estudando para futuramente retornar á faculdade. Atualmente estou cursando Python Developer na DIO e aprendendo mais sobre programação de forma autodidata.
+tualmente, atuo como Analista de TI L1 no projeto Vale Base Metals, onde sou responsável pela validação de procedimentos junto ao cliente final, garantindo que as entregas estejam alinhadas às necessidades do negócio e com alto padrão de qualidade.
+
+Estou iniciando minha graduação em Gestão da Tecnologia da Informação na PUCRS, unindo a visão estratégica da gestão com o conhecimento técnico necessário para inovar e otimizar processos.
+
+Tenho grande interesse em integração de sistemas, entendendo como diferentes plataformas e tecnologias podem se conectar para gerar mais valor e eficiência para as organizações.
 
 ---
 
