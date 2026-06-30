@@ -2,7 +2,7 @@
 
 **`Aprendiz de Programação `**
 
-tualmente, atuo como Analista de TI L1 no projeto Vale Base Metals, onde sou responsável pela validação de procedimentos junto ao cliente final, garantindo que as entregas estejam alinhadas às necessidades do negócio e com alto padrão de qualidade.
+tualmente, atuo como Analista de TI L1 no projeto Vale Base Metals, onde sou responsável pela validação de procedimentos direcionados ao cliente final, garantindo que as entregas estejam alinhadas às necessidades do negócio e com alto padrão de qualidade.
 
 Estou iniciando minha graduação em Gestão da Tecnologia da Informação na PUCRS, unindo a visão estratégica da gestão com o conhecimento técnico necessário para inovar e otimizar processos.
 
